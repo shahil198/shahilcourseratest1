@@ -14,7 +14,7 @@ h1 {
 }
 
 section {
-    border: 3px solid black;
+    border: 1px solid black;
     background-color: #b5c4d2;
     margin: 10px;
 }
@@ -29,7 +29,7 @@ section>h2 {
     font-style: Times;
     font-size: 24px;
     font-weight: bold;
-    height: 45px;
+    height: 55px;
     padding-top: 10px;
 }
 
